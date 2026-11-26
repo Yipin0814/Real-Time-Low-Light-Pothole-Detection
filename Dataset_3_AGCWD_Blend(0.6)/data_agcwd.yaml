@@ -1,0 +1,11 @@
+names:
+- pothole
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pothole-detection-lowlight
+  url: https://universe.roboflow.com/yi-pin-wong/pothole-detection-lowlight/dataset/1
+  version: 1
+  workspace: yi-pin-wong
+train: /content/drive/MyDrive/Thesis_Pothole_Project/Dataset_3_AGCWD_Blend(0.6)/train/images
+val: /content/drive/MyDrive/Thesis_Pothole_Project/Dataset_3_AGCWD_Blend(0.6)/valid/images

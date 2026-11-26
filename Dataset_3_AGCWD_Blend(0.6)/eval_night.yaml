@@ -1,0 +1,5 @@
+names:
+- pothole
+nc: 1
+train: /content/drive/MyDrive/Thesis_Pothole_Project/Dataset_3_AGCWD_Blend(0.6)/train/images
+val: /content/drive/MyDrive/Thesis_Pothole_Project/Dataset_3_AGCWD_Blend(0.6)/dataset_split/test_night/images
