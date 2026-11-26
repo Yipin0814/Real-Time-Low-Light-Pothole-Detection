@@ -33,5 +33,10 @@ All models and enhancement pipelines were evaluated across Day, Night, and Combi
 * **Detection Quality:** Precision, Recall, mAP@50, and mAP@50-95
 * **Real-Time Efficiency:** Total end-to-end processing latency (enhancement + inference)
 
+## Sample Results
+<img width="1462" height="478" alt="image" src="https://github.com/user-attachments/assets/0282a99e-2b68-4ba5-9bda-7f073ba2425f" />
+<img width="1524" height="1022" alt="image" src="https://github.com/user-attachments/assets/05bc43de-69d3-43ad-818c-9c16668108c0" />
+<img width="1514" height="1018" alt="image" src="https://github.com/user-attachments/assets/8759ffb8-e610-410b-b20f-04479bdb3afa" />
+
 ## Author
 * **Wong Yi Pin** — B.Eng. / B.Sc. Artificial Intelligence Undergraduate, Xiamen University Malaysia (XMUM)
