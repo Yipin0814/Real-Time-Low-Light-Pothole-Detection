@@ -36,8 +36,7 @@ All models and enhancement pipelines were evaluated across Day, Night, and Combi
 ## Sample Results
 <img width="1462" height="478" alt="image" src="https://github.com/user-attachments/assets/0282a99e-2b68-4ba5-9bda-7f073ba2425f" />
 <img width="1524" height="1022" alt="image" src="https://github.com/user-attachments/assets/05bc43de-69d3-43ad-818c-9c16668108c0" />
-<img width="804" height="459" alt="image" src="https://github.com/user-attachments/assets/075c9b4b-376f-4404-9202-3d4d7701f464" />
-
+<img width="1207" height="597" alt="image" src="https://github.com/user-attachments/assets/45c4e154-2351-4c53-98df-fcf82c2f8c72" />
 
 
 ## Author
